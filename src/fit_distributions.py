@@ -61,13 +61,6 @@ print(f"{'Model':<12}{'# Obs':<10}{'Normal':<20}{'Uniform':<20}{'Power law':<20}
 for r in results:
     print(f"{r['Dataset']:<12}{r['# Observations']:<10}{r['Normal']:<20}{r['Uniform']:<20}{r['Power law']:<20}{r['Exponential']:<15}")
 
-# Comments:
-# - Normal: MLE for mu, sigma are mean and std
-# - Uniform: MLE for a, b are min, max
-# - Power law: Used powerlaw.Fit for alpha, xmin
-# - Exponential: MLE for lambda is 1/mean
-# - All fits are standard and valid for continuous data
-
 # Helper: Generate synthetic data for each model
 synthetic = {}
 for idx, (name, data, n) in enumerate([

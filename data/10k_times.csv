@@ -1,0 +1,501 @@
+"Rank","Athlete","Year","Team","Time","Meet","Meet.Date","high_altitude"
+1,"Hicks, Charles",3,"Stanford",1677.47,"Stanford Invitational","Mar 31, 2023",FALSE
+2,"Kiprop, Victor",2,"Alabama",1677.63,"Stanford Invitational","Mar 31, 2023",FALSE
+3,"Robinson, Ky",3,"Stanford",1678.74,"Stanford Invitational","Mar 31, 2023",FALSE
+4,"Beattie, Scott",4,"Tulsa",1678.92,"Stanford Invitational","Mar 31, 2023",FALSE
+5,"Kiprop, Patrick",3,"Arkansas",1680.58,"Stanford Invitational","Mar 31, 2023",FALSE
+6,"Liking, Bob",3,"Wisconsin",1680.77,"Stanford Invitational","Mar 31, 2023",FALSE
+7,"Jacobs, Dylan",4,"Tennessee",1681.53,"2023 Bryan Clay Invitational","Apr 13, 2023",FALSE
+8,"Clinger, Casey",3,"BYU",1681.67,"2023 Bryan Clay Invitational","Apr 13, 2023",FALSE
+9,"Thompson, Creed",2,"BYU",1684.15,"2023 Bryan Clay Invitational","Apr 13, 2023",FALSE
+10,"Dalton, Cormac",4,"Tulsa",1684.29,"2023 Bryan Clay Invitational","Apr 13, 2023",FALSE
+11,"Garnica, Brandon",4,"BYU",1684.62,"2023 Bryan Clay Invitational","Apr 13, 2023",FALSE
+12,"Keane, Barry",4,"Butler",1684.66,"2023 Bryan Clay Invitational","Apr 13, 2023",FALSE
+13,"Nokes, Joey",2,"BYU",1685.38,"2023 Bryan Clay Invitational","Apr 13, 2023",FALSE
+14,"Hart, Devin",3,"Stanford",1687.64,"Stanford Invitational","Mar 31, 2023",FALSE
+15,"Lopez Segura, Antonio",4,"Virginia Tech",1689.86,"2023 Bryan Clay Invitational","Apr 13, 2023",FALSE
+16,"Bosley, Drew",2,"Northern Arizona",1698.02,"Stanford Invitational","Mar 31, 2023",FALSE
+17,"Johnson, Ryan",4,"Air Force",1700.7,"Stanford Invitational","Mar 31, 2023",FALSE
+18,"Rodriguez, Isai",4,"Oklahoma State",1700.93,"Payton Jordan Invitational","Apr 21, 2023",FALSE
+19,"Leonard, Rory",2,"Oklahoma State",1701.3,"Stanford Invitational","Mar 31, 2023",FALSE
+20,"Yego, Kirami",4,"South Alabama",1702.94,"Raleigh Relays","Mar 23, 2023",FALSE
+21,"Smith, Wil",2,"Gonzaga",1704.03,"Stanford Invitational","Mar 31, 2023",FALSE
+22,"Vancil, Austin",3,"Colorado",1704.72,"Stanford Invitational","Mar 31, 2023",FALSE
+23,"Blanks, Graham",2,"Harvard",1704.79,"Raleigh Relays","Mar 23, 2023",FALSE
+24,"Fay, Brian",4,"Washington",1704.9,"Pac-12 Track & Field Championships","May 12, 2023",FALSE
+25,"Perrin, Ben",3,"Montana State",1705.24,"2023 Bryan Clay Invitational","Apr 13, 2023",FALSE
+26,"Kibiwot, Ian",3,"Louisville",1707.67,"Stanford Invitational","Mar 31, 2023",FALSE
+27,"Sweeney, Charlie",4,"Colorado",1708.05,"Stanford Invitational","Mar 31, 2023",FALSE
+28,"McLeod, Jacob",3,"Arkansas",1708.73,"Stanford Invitational","Mar 31, 2023",FALSE
+29,"Scudder, Nickolas",3,"Charlotte",1708.81,"Raleigh Relays","Mar 23, 2023",FALSE
+30,"Sprout, Cole",3,"Stanford",1710.91,"Payton Jordan Invitational","Apr 21, 2023",FALSE
+31,"Knight, Haftu",3,"Texas",1712.53,"63rd Annual Mt. SAC Relays","Apr 12, 2023",FALSE
+32,"Maier, Alex",3,"Oklahoma State",1713.04,"Payton Jordan Invitational","Apr 21, 2023",FALSE
+33,"Mackinnon, Perry",4,"Cornell",1713.9,"Stanford Invitational","Mar 31, 2023",FALSE
+34,"Soca, Valentin",2,"CBU",1714.34,"Stanford Invitational","Mar 31, 2023",FALSE
+35,"Strintzos, Haftu",3,"Villanova",1716.71,"Raleigh Relays","Mar 23, 2023",FALSE
+36,"Aljabaly, Shuaib",3,"Tulsa",1717.67,"Stanford Invitational","Mar 31, 2023",FALSE
+37,"Brown, Mason",3,"Colorado St.",1718.19,"Stanford Invitational","Mar 31, 2023",FALSE
+38,"Overberg, James",1,"Colorado",1718.95,"Stanford Invitational","Mar 31, 2023",FALSE
+39,"Mwaura, James",4,"Gonzaga",1719.5,"63rd Annual Mt. SAC Relays","Apr 12, 2023",FALSE
+40,"Devaney, Chris",3,"Loyola (Ill.)",1720.4,"Stanford Invitational","Mar 31, 2023",FALSE
+41,"Jennings, Jack",2,"Villanova",1721.11,"Raleigh Relays","Mar 23, 2023",FALSE
+42,"Berry, Kevin",4,"Notre Dame",1721.14,"Raleigh Relays","Mar 23, 2023",FALSE
+43,"Phillips, Josh",4,"Villanova",1721.65,"Raleigh Relays","Mar 23, 2023",FALSE
+44,"Beaudoin-Rousseau, Meika",3,"Stanford",1722.33,"Payton Jordan Invitational","Apr 21, 2023",FALSE
+45,"O'Donnell, Paul",4,"Syracuse",1722.54,"Stanford Invitational","Mar 31, 2023",FALSE
+46,"Minor-Williams, Joseph",4,"South Dakota St.",1723.31,"2023 Bryan Clay Invitational","Apr 13, 2023",FALSE
+47,"Allen, Christian",3,"BYU",1723.59,"2023 Bryan Clay Invitational","Apr 13, 2023",FALSE
+48,"Ricketts, Christian",4,"CBU",1723.64,"Ben Brown Invite/AstroAI Distance Classic","Mar 10, 2023",FALSE
+49,"Kirk, Zak",4,"Portland",1723.79,"2023 Bryan Clay Invitational","Apr 13, 2023",FALSE
+50,"Cheney, Habtamu",4,"Utah Valley",1724.22,"Stanford Invitational","Mar 31, 2023",FALSE
+51,"Abouzouhir, Abdelhakim",3,"Eastern Kentucky",1724.9,"Raleigh Relays","Mar 23, 2023",FALSE
+52,"Martins, Ryan",4,"Loyola (Ill.)",1725.46,"Stanford Invitational","Mar 31, 2023",FALSE
+53,"Gertsen, Jonas",2,"Portland",1725.6,"2023 Bryan Clay Invitational","Apr 13, 2023",FALSE
+54,"Masai, Brian",1,"Akron",1725.78,"Raleigh Relays","Mar 23, 2023",FALSE
+55,"Grotenhuis, Cael",2,"Northern Arizona",1725.92,"Stanford Invitational","Mar 31, 2023",FALSE
+56,"Aschbrenner, Jace",2,"Colorado",1726.76,"Stanford Invitational","Mar 31, 2023",FALSE
+57,"Coleman, Ethan",1,"Notre Dame",1726.93,"Raleigh Relays","Mar 23, 2023",FALSE
+58,"Alonzo, Isaac",2,"Texas",1727.82,"63rd Annual Mt. SAC Relays","Apr 12, 2023",FALSE
+59,"Grundvig, Luke",1,"BYU",1728.49,"2023 Bryan Clay Invitational","Apr 13, 2023",FALSE
+60,"Throop, Dylan",2,"Penn",1728.59,"Raleigh Relays","Mar 23, 2023",FALSE
+61,"Russell, Nicholas",3,"Santa Clara",1728.74,"Stanford Invitational","Mar 31, 2023",FALSE
+62,"Watson, George",4,"Bradley",1729.43,"2023 Bryan Clay Invitational","Apr 13, 2023",FALSE
+63,"Reynaga, Matias",2,"CBU",1729.53,"Ben Brown Invite/AstroAI Distance Classic","Mar 10, 2023",FALSE
+64,"Makuvire, Bradley",3,"Tulane",1730.61,"2023 Bryan Clay Invitational","Apr 13, 2023",FALSE
+65,"Savino, Ben",4,"Ole Miss",1730.64,"Stanford Invitational","Mar 31, 2023",FALSE
+66,"Brady, Tom",4,"Michigan",1730.77,"Raleigh Relays","Mar 23, 2023",FALSE
+67,"Twyman, Ian",3,"Santa Clara",1731.61,"Stanford Invitational","Mar 31, 2023",FALSE
+68,"Dee, Jamie",4,"Iona",1731.68,"Payton Jordan Invitational","Apr 21, 2023",FALSE
+69,"Jouhari, Mohammed",2,"Boise State",1731.72,"Oregon Preview","Mar 17, 2023",FALSE
+70,"Abdala, Daniel",2,"Portland",1731.93,"Stanford Invitational","Mar 31, 2023",FALSE
+71,"Medveds, Arturs",3,"CBU",1733.29,"Stanford Invitational","Mar 31, 2023",FALSE
+72,"Rocha, Marcelo",4,"Providence",1733.42,"Penn Relays","Apr 27, 2023",FALSE
+73,"Daschbach, Leo",2,"Washington",1734.51,"Stanford Invitational","Mar 31, 2023",FALSE
+74,"Bernal, Daniel",4,"UTEP",1734.59,"63rd Annual Mt. SAC Relays","Apr 12, 2023",FALSE
+75,"Dykema, Brock",3,"Colorado St.",1734.71,"Stanford Invitational","Mar 31, 2023",FALSE
+76,"Maxon, Chris",4,"Ole Miss",1735.71,"Stanford Invitational","Mar 31, 2023",FALSE
+77,"Harari, Assaf",1,"Syracuse",1735.74,"Stanford Invitational","Mar 31, 2023",FALSE
+78,"Propp, Malte",3,"Tulsa",1736.71,"Stanford Invitational","Mar 31, 2023",FALSE
+79,"Hussein, Abdinasir",3,"Oregon",1737.08,"Oregon Preview","Mar 17, 2023",FALSE
+80,"Magnusson, Baldvin",4,"Eastern Michigan",1737.17,"Raleigh Relays","Mar 23, 2023",FALSE
+81,"Stanford, Jacob",1,"BYU",1737.46,"2023 Bryan Clay Invitational","Apr 13, 2023",FALSE
+82,"Zelek, Joshua",3,"Princeton",1737.79,"Raleigh Relays","Mar 23, 2023",FALSE
+83,"Gemeda, Merga",4,"South Dakota",1738.12,"Raleigh Relays","Mar 23, 2023",FALSE
+84,"Comerford, Alex",3,"Syracuse",1738.14,"Stanford Invitational","Mar 31, 2023",FALSE
+85,"Lawler, Nathan",3,"Syracuse",1738.7,"Stanford Invitational","Mar 31, 2023",FALSE
+86,"Flanagan, Teagan",4,"South Alabama",1739.69,"Raleigh Relays","Mar 23, 2023",FALSE
+87,"McGlynn, David",4,"Providence",1739.86,"Penn Relays","Apr 27, 2023",FALSE
+87,"Gilpatric, Micah",3,"Charleston Southern",1739.86,"Raleigh Relays","Mar 23, 2023",FALSE
+89,"O'Gorman, Aidan",3,"North Florida",1739.9,"Raleigh Relays","Mar 23, 2023",FALSE
+90,"Powell, Ethan",4,"Colorado",1740.47,"Stanford Invitational","Mar 31, 2023",FALSE
+91,"Le Pallec, Florian",4,"CBU",1740.81,"Stanford Invitational","Mar 31, 2023",FALSE
+92,"Richtman, Matthew",3,"Montana State",1741.32,"2023 Bryan Clay Invitational","Apr 13, 2023",FALSE
+93,"Prosser, Santiago",2,"Northern Arizona",1741.77,"Stanford Invitational","Mar 31, 2023",FALSE
+93,"Gualter, Toby",3,"Eastern Michigan",1741.77,"Raleigh Relays","Mar 23, 2023",FALSE
+95,"Cutter, Ryan",4,"Villanova",1742.11,"Penn Relays","Apr 27, 2023",FALSE
+96,"Brennan, Evan",3,"Stony Brook",1742.49,"Raleigh Relays","Mar 23, 2023",FALSE
+97,"Altice, Bridger",3,"Utah State",1743.14,"Stanford Invitational","Mar 31, 2023",FALSE
+98,"Thiessen, Karl",4,"Tennessee",1744.26,"Raleigh Relays","Mar 23, 2023",FALSE
+99,"Greder, Milo",4,"Cincinnati",1744.44,"Raleigh Relays","Mar 23, 2023",FALSE
+100,"Beucler, Adam",4,"Furman",1745.27,"Raleigh Relays","Mar 23, 2023",FALSE
+101,"Buysse, Blake",4,"Loyola (Ill.)",1745.99,"Stanford Invitational","Mar 31, 2023",FALSE
+102,"Stimpfel, CarLee",3,"Michigan State",1746.03,"Raleigh Relays","Mar 23, 2023",FALSE
+103,"Pyeatt, Jacob",3,"Arkansas State",1751.66,"2023 Bryan Clay Invitational","Apr 13, 2023",FALSE
+104,"Olson, Caleb",3,"Liberty",1751.84,"Stanford Invitational","Mar 31, 2023",FALSE
+105,"Gough, Garrett",4,"Army West Point",1751.98,"Bison Outdoor Classic","Apr 14, 2023",FALSE
+106,"Hufnagel, Noah",4,"Southern Indiana",1752.35,"2023 Bryan Clay Invitational","Apr 13, 2023",FALSE
+107,"Laadjel, Abdel",1,"Providence",1752.5,"BIG EAST Outdoor Track & Field Championships","May 10, 2023",FALSE
+108,"Derouin, Jake",2,"Colorado",1753.28,"Stanford Invitational","Mar 31, 2023",FALSE
+109,"Iverson, Acer",3,"Harvard",1753.54,"Wake Forest Invitational","Apr 21, 2023",FALSE
+110,"Wilson, Micah",1,"Wisconsin",1753.98,"Stanford Invitational","Mar 31, 2023",FALSE
+111,"Valincius, Giedrius",3,"CBU",1755.04,"Ben Brown Invite/AstroAI Distance Classic","Mar 10, 2023",FALSE
+112,"Hudson, Joe",3,"Boise State",1756.77,"2023 Bryan Clay Invitational","Apr 13, 2023",FALSE
+113,"Kintzele, Jakob",3,"Portland",1757.1,"Stanford Invitational","Mar 31, 2023",FALSE
+114,"Murphy, Max",2,"Iowa",1758.05,"Big Ten Outdoor Championships","May 12, 2023",FALSE
+115,"Zozulya, Roman",3,"CBU",1758.16,"Ben Brown Invite/AstroAI Distance Classic","Mar 10, 2023",FALSE
+116,"McMahon, Jack",2,"Butler",1758.67,"Raleigh Relays","Mar 23, 2023",FALSE
+117,"Kinne, Zach",4,"Duke",1758.96,"63rd Annual Mt. SAC Relays","Apr 12, 2023",FALSE
+118,"Kawalec, Nate",3,"Tennessee",1760.92,"Raleigh Relays","Mar 23, 2023",FALSE
+119,"White, Hunter",3,"Charlotte",1760.96,"Raleigh Relays","Mar 23, 2023",FALSE
+120,"Farrell, Matthew",3,"Princeton",1761.17,"Raleigh Relays","Mar 23, 2023",FALSE
+121,"Coffey, Shane",3,"Providence",1762.84,"Penn Relays","Apr 27, 2023",FALSE
+122,"Wellington, Lachlan",2,"Iona",1762.89,"2023 Yale Last Chance Meet","May 13, 2023",FALSE
+123,"Mitchel, Lars",2,"Colorado St.",1762.9,"Mines Mini Meet","Apr 21, 2023",TRUE
+124,"Richter, Myles",3,"Arkansas",1763.38,"Stanford Invitational","Mar 31, 2023",FALSE
+125,"Longosiwa, Abraham",1,"Hofstra",1764.71,"Penn Relays","Apr 27, 2023",FALSE
+126,"Siebert, Charlie",2,"Davidson",1764.74,"Virginia Challenge","Apr 20, 2023",FALSE
+127,"Kay, Sean",2,"Yale",1765.1,"2023 Yale Last Chance Meet","May 13, 2023",FALSE
+128,"Palmer, Aidan",2,"Boise State",1765.13,"2023 Bryan Clay Invitational","Apr 13, 2023",FALSE
+129,"Buck, Ed",3,"San Francisco",1765.56,"2023 Bryan Clay Invitational","Apr 13, 2023",FALSE
+130,"Merchant, Tristian",2,"Liberty",1766.15,"ASUN Outdoor Track and Field Championships","May 11, 2023",FALSE
+130,"Radosevich, Kyle",3,"Gonzaga",1766.15,"Payton Jordan Invitational","Apr 21, 2023",FALSE
+132,"Brown, Caleb",2,"Oregon",1766.2,"Oregon Preview","Mar 17, 2023",FALSE
+133,"Nahom, Eli",3,"Tennessee",1766.42,"Raleigh Relays","Mar 23, 2023",FALSE
+134,"Garnica, Caleb",4,"Utah State",1767.5,"Payton Jordan Invitational","Apr 21, 2023",FALSE
+135,"Anderson, Chris",2,"Portland",1767.93,"63rd Annual Mt. SAC Relays","Apr 12, 2023",FALSE
+136,"Lara, Erick",4,"Army West Point",1768.25,"Bison Outdoor Classic","Apr 14, 2023",FALSE
+137,"Kirk, Jarrett",3,"Princeton",1769.36,"Raleigh Relays","Mar 23, 2023",FALSE
+138,"Aho, Matt",4,"Bradley",1770.07,"Raleigh Relays","Mar 23, 2023",FALSE
+139,"Milarvie, Max",4,"Boise State",1770.44,"2023 Bryan Clay Invitational","Apr 13, 2023",FALSE
+140,"Cheruiyot, Titus",3,"UTEP",1771.11,"63rd Annual Mt. SAC Relays","Apr 12, 2023",FALSE
+141,"Haessner, Julian",4,"Central Arkansas",1772.06,"Raleigh Relays","Mar 23, 2023",FALSE
+142,"Asfaw, Rohann",4,"Virginia",1772.07,"Raleigh Relays","Mar 23, 2023",FALSE
+143,"Child, Ryan",3,"Air Force",1772.92,"2023 Bryan Clay Invitational","Apr 13, 2023",FALSE
+144,"Morlan, Turlan",3,"Washington St.",1773.04,"63rd Annual Mt. SAC Relays","Apr 12, 2023",FALSE
+145,"Leachman, Zach",3,"Florida State",1773.93,"Raleigh Relays","Mar 23, 2023",FALSE
+146,"Sigei, Gidion",2,"Norfolk State",1774.41,"Raleigh Relays","Mar 23, 2023",FALSE
+147,"Cerkowniak , Bryce",1,"Gonzaga",1775.06,"Stanford Invitational","Mar 31, 2023",FALSE
+148,"Sannes, Max",1,"Air Force",1775.46,"2023 Bryan Clay Invitational","Apr 13, 2023",FALSE
+149,"Barsaiya, Brian",3,"Washington St.",1775.85,"63rd Annual Mt. SAC Relays","Apr 12, 2023",FALSE
+150,"Minnette, Will",3,"Butler",1776.89,"Raleigh Relays","Mar 23, 2023",FALSE
+151,"Akers, Isaac",4,"Tulsa",1777.08,"2023 Bryan Clay Invitational","Apr 13, 2023",FALSE
+152,"Singh, Ishaan",3,"Santa Clara",1777.98,"2023 Bryan Clay Invitational","Apr 13, 2023",FALSE
+153,"Cullen, Patrick",3,"Northeastern",1778.56,"Raleigh Relays","Mar 23, 2023",FALSE
+154,"Van Der Hock, Dylan",2,"CBU",1778.58,"Ben Brown Invite/AstroAI Distance Classic","Mar 10, 2023",FALSE
+155,"Riley, John",2,"UMass Lowell",1779.29,"Penn Relays","Apr 27, 2023",FALSE
+156,"Tatter, John",4,"North Carolina",1779.4,"Raleigh Relays","Mar 23, 2023",FALSE
+157,"Withrow, Aaron",4,"Kentucky",1780.09,"Stanford Invitational","Mar 31, 2023",FALSE
+158,"Derfel, Silas",3,"Syracuse",1780.5,"Raleigh Relays","Mar 23, 2023",FALSE
+159,"Gibbens, Chandler",3,"Kansas",1780.92,"Big 12 Outdoor Track & Field Championships","May 12, 2023",FALSE
+160,"Kipchumba, Enock",3,"Eastern Kentucky",1781.02,"ASUN Outdoor Track and Field Championships","May 11, 2023",FALSE
+161,"Deogracias, Alan",3,"Charleston Southern",1781.42,"Raleigh Relays","Mar 23, 2023",FALSE
+162,"Milla, Marcos",4,"UC San Diego",1781.57,"2023 Bryan Clay Invitational","Apr 13, 2023",FALSE
+163,"Dailey, Jamie",4,"Cincinnati",1781.84,"Raleigh Relays","Mar 23, 2023",FALSE
+164,"Bond, Wesley",2,"George Mason",1782.08,"Raleigh Relays","Mar 23, 2023",FALSE
+165,"Feda, Obsaa",3,"Miami (Ohio)",1782.7,"2023 Bryan Clay Invitational","Apr 13, 2023",FALSE
+166,"Everett, Drew",4,"UMass Lowell",1783.4,"Raleigh Relays","Mar 23, 2023",FALSE
+167,"Reading, Ares",2,"Santa Clara",1783.6,"2023 Bryan Clay Invitational","Apr 13, 2023",FALSE
+168,"Diehl, Justin",2,"Virginia",1783.68,"Raleigh Relays","Mar 23, 2023",FALSE
+169,"Jones, Andrew",1,"Virginia",1783.9,"Virginia Challenge","Apr 20, 2023",FALSE
+170,"Karayianis, Nick",2,"Virginia",1784.44,"Raleigh Relays","Mar 23, 2023",FALSE
+171,"Merritt, Will",4,"Villanova",1785.34,"Penn Relays","Apr 27, 2023",FALSE
+172,"Ikenberry, Jack",4,"George Mason",1786.05,"Atlantic 10 Outdoor Championships","May 6, 2023",FALSE
+173,"Baird, Graham",4,"Iona",1786.65,"Raleigh Relays","Mar 23, 2023",FALSE
+174,"Olden, Brandon",3,"Siena",1786.77,"Raleigh Relays","Mar 23, 2023",FALSE
+175,"Berti, Massimiliano",2,"CBU",1787.97,"Ben Brown Invite/AstroAI Distance Classic","Mar 10, 2023",FALSE
+176,"Gleason, Payton",4,"Memphis",1789.59,"Wash U Distance Carnival Saturday 2023","Apr 1, 2023",FALSE
+177,"Whetstone, Jack",4,"Syracuse",1790.18,"Raleigh Relays","Mar 23, 2023",FALSE
+178,"Whitinger, Andrew",3,"Purdue Fort Wayne",1790.68,"Wash U Distance Carnival Saturday 2023","Apr 1, 2023",FALSE
+179,"Kujdych, Rusty",4,"Georgetown",1791.19,"BIG EAST Outdoor Track & Field Championships","May 10, 2023",FALSE
+180,"Bronson, Mhalicki",3,"Miami (OH)",1791.62,"Raleigh Relays","Mar 23, 2023",FALSE
+181,"Harvey, Kevin",2,"Lehigh",1791.69,"Bison Outdoor Classic","Apr 14, 2023",FALSE
+182,"Kreis, Jared",3,"Duke",1792.19,"Raleigh Relays","Mar 23, 2023",FALSE
+183,"Cragun, Coleman",2,"Southern Utah",1792.64,"2023 Bryan Clay Invitational","Apr 13, 2023",FALSE
+184,"Wilson-Cook , Oliver",2,"Appalachian State",1793.08,"2023 Colonial Relays","Mar 30, 2023",FALSE
+185,"Ricks, Jacob",2,"Belmont",1794.19,"Flames Invitational","Apr 7, 2023",FALSE
+186,"Little, Ramsey",2,"Marist",1794.24,"Raleigh Relays","Mar 23, 2023",FALSE
+187,"Christopher, Dylan",4,"UNC-Greensboro",1794.54,"Wake Forest Invitational","Apr 21, 2023",FALSE
+188,"Cottrell, Jack",1,"Liberty",1794.55,"2023 Bryan Clay Invitational","Apr 13, 2023",FALSE
+189,"Bentivegna, Anthony",3,"Wagner",1794.6,"2023 Colonial Relays","Mar 30, 2023",FALSE
+190,"Steinau, Hunter",3,"High Point",1794.75,"Raleigh Relays","Mar 23, 2023",FALSE
+191,"Guermali, Yacine",4,"Gonzaga",1795.07,"Stanford Invitational","Mar 31, 2023",FALSE
+192,"Haessner, Philipp",4,"Central Arkansas",1795.08,"Raleigh Relays","Mar 23, 2023",FALSE
+193,"Kane, Colin",3,"Oakland",1795.47,"Bison Outdoor Classic","Apr 14, 2023",FALSE
+194,"Waldin, Sam",2,"Charleston Southern",1795.58,"2023 Big South Outdoor Track & Field Championship","May 10, 2023",FALSE
+195,"Mbambo, Taonga",3,"La Salle",1795.78,"Virginia Challenge","Apr 20, 2023",FALSE
+196,"Keeny, Samuel",3,"Navy",1795.82,"Patriot League Outdoor Track & Field Championships","May 5, 2023",FALSE
+197,"Cushing, Tyler",3,"Illinois",1795.89,"63rd Annual Mt. SAC Relays","Apr 12, 2023",FALSE
+198,"Norman, Quincy",3,"Oregon",1796.42,"Oregon Preview","Mar 17, 2023",FALSE
+199,"McCarty, Alex",1,"Wright State",1796.86,"Bison Outdoor Classic","Apr 14, 2023",FALSE
+200,"Walsdorf, Peter",1,"Kansas",1798.14,"Mike Fanelli Track Classic","Mar 30, 2023",FALSE
+201,"Brown, Cade",3,"Yale",1798.18,"Raleigh Relays","Mar 23, 2023",FALSE
+202,"Caldwell, Jackson",3,"Wichita State",1798.24,"Wichita State KT Woodman Classic","Apr 7, 2023",FALSE
+203,"Loomis, Zack",2,"Illinois State",1798.36,"Wash U Distance Carnival Saturday 2023","Apr 1, 2023",FALSE
+204,"Porter, Matthew",4,"Army West Point",1798.95,"Virginia Challenge","Apr 20, 2023",FALSE
+205,"Hessler, Adam",3,"UNC-Asheville",1799.29,"2023 Big South Outdoor Track & Field Championship","May 10, 2023",FALSE
+206,"Haney, Jordan",2,"UC San Diego",1799.55,"2023 Bryan Clay Invitational","Apr 13, 2023",FALSE
+207,"Marshall, Ethan",4,"Air Force",1799.82,"2023 Bryan Clay Invitational","Apr 13, 2023",FALSE
+208,"Abdalla, Yaseen",3,"Tennessee",1800.18,"SEC Outdoor Track & Field Championships","May 11, 2023",FALSE
+209,"Bertelsen, Jake",4,"Miami (OH)",1800.72,"Raleigh Relays","Mar 23, 2023",FALSE
+210,"Feeny, Travis",3,"Southern Utah",1801.16,"63rd Annual Mt. SAC Relays","Apr 12, 2023",FALSE
+211,"Zucca , Steve",3,"Fordham",1801.56,"Atlantic 10 Outdoor Championships","May 6, 2023",FALSE
+212,"Morganti, Dominic",4,"Portland State",1801.99,"2023 Bryan Clay Invitational","Apr 13, 2023",FALSE
+213,"Swanson, Leif",2,"Washington St.",1802.57,"63rd Annual Mt. SAC Relays","Apr 12, 2023",FALSE
+214,"Cozean, Robert",2,"Notre Dame",1802.71,"Wake Forest Invitational","Apr 21, 2023",FALSE
+215,"Carew, Robert",2,"UMass Amherst",1802.9,"NEICAAA Outdoor Track & Field Championships","May 12, 2023",FALSE
+216,"Syed, Talha",2,"Columbia",1803.26,"Ivy League Outdoor Track & Field Championships","May 6, 2023",FALSE
+217,"Sand, Thomas",4,"George Washington",1803.3,"Atlantic 10 Outdoor Championships","May 6, 2023",FALSE
+218,"Anderson, Logan",3,"Weber State",1803.95,"2023 Bryan Clay Invitational","Apr 13, 2023",FALSE
+219,"Lewis, Nick",3,"Bellarmine",1804.12,"2023 Bryan Clay Invitational","Apr 13, 2023",FALSE
+220,"Jenkins, Robert",1,"George Mason",1804.92,"Atlantic 10 Outdoor Championships","May 6, 2023",FALSE
+221,"Kaiser, Nate",3,"IUPUI",1805.08,"Horizon League Championship","May 5, 2023",FALSE
+222,"Meadows, Ryan",2,"Youngstown St.",1805.17,"Horizon League Championship","May 5, 2023",FALSE
+223,"Kipkosgei, Shadrack",3,"Kent State",1805.53,"Virginia Challenge","Apr 20, 2023",FALSE
+224,"Hasselblad, Noah",2,"Eastern Washington",1806.06,"2023 Bryan Clay Invitational","Apr 13, 2023",FALSE
+225,"Walker, Colton",2,"Villanova",1806.96,"BIG EAST Outdoor Track & Field Championships","May 10, 2023",FALSE
+226,"Gits, Mitchell",2,"IUPUI",1807.17,"2023 Bryan Clay Invitational","Apr 13, 2023",FALSE
+227,"Kirk, Kevin",4,"Weber State",1807.65,"2023 Bryan Clay Invitational","Apr 13, 2023",FALSE
+228,"Sewall, Payton",4,"Penn State",1807.8,"Bison Outdoor Classic","Apr 14, 2023",FALSE
+229,"Henseler, Luke",2,"Pittsburgh",1807.9,"Raleigh Relays","Mar 23, 2023",FALSE
+230,"Doud, Nick",3,"Butler",1808.22,"Wash U Distance Carnival Saturday 2023","Apr 1, 2023",FALSE
+231,"Sindt, Timothy",2,"Iowa State",1808.65,"Big 12 Outdoor Track & Field Championships","May 12, 2023",FALSE
+232,"Jha, Zubin",2,"Ohio State",1808.72,"Flames Invitational","Apr 7, 2023",FALSE
+233,"Michna, Anton",2,"Memphis",1809.71,"Wash U Distance Carnival Saturday 2023","Apr 1, 2023",FALSE
+234,"Danner, Alec",4,"Bradley",1810.36,"63rd Annual Mt. SAC Relays","Apr 12, 2023",FALSE
+234,"Hopkins, Daniel",3,"UNC-Asheville",1810.36,"2023 Big South Outdoor Track & Field Championship","May 10, 2023",FALSE
+236,"Wenzel, Trevor",4,"Milwaukee",1810.4,"Horizon League Championship","May 5, 2023",FALSE
+237,"Uminski, Jean",4,"Wagner",1810.87,"2023 Colonial Relays","Mar 30, 2023",FALSE
+238,"Wiggers, Jacob",3,"Alabama",1811.9,"Mike Fanelli Track Classic","Mar 30, 2023",FALSE
+239,"Geiger, Ethan",2,"Florida",1812.51,"Virginia Challenge","Apr 20, 2023",FALSE
+240,"Yandel, Colin",4,"Illinois",1814.18,"63rd Annual Mt. SAC Relays","Apr 12, 2023",FALSE
+241,"Moody, Stephen",2,"Yale",1814.27,"2023 Yale Last Chance Meet","May 13, 2023",FALSE
+242,"Martingayle, Jackson",4,"LSU",1815.43,"2023 Bryan Clay Invitational","Apr 13, 2023",FALSE
+243,"Ahlmeyer, David",4,"Furman",1815.46,"Raleigh Relays","Mar 23, 2023",FALSE
+244,"Mitchell, Ben",4,"Wake Forest",1815.55,"Wake Forest Invitational","Apr 21, 2023",FALSE
+245,"Maki, Matthew",4,"Texas Tech",1815.75,"2023 Bryan Clay Invitational","Apr 13, 2023",FALSE
+246,"Stafford, Paul",3,"Florida State",1815.79,"Raleigh Relays","Mar 23, 2023",FALSE
+247,"Amaral , Rogerio",1,"South Carolina",1815.9,"SEC Outdoor Track & Field Championships","May 11, 2023",FALSE
+248,"Depenbusch, Kerby",3,"Kansas State",1816.1,"63rd Annual Mt. SAC Relays","Apr 12, 2023",FALSE
+249,"Smucker, Spencer",4,"High Point",1816.49,"2023 Big South Outdoor Track & Field Championship","May 10, 2023",FALSE
+250,"Knodle, Jacob",2,"North Dakota State",1817.82,"Drake Relays","Apr 26, 2023",FALSE
+251,"Winders, Titus",4,"Iowa State",1817.91,"Big 12 Outdoor Track & Field Championships","May 12, 2023",FALSE
+252,"O'Connell, Sean",4,"Loyola (Ill.)",1818,"2023 Bryan Clay Invitational","Apr 13, 2023",FALSE
+253,"Cuozzo, John",2,"Ohio State",1818.05,"Flames Invitational","Apr 7, 2023",FALSE
+254,"Moon, Grant",2,"IUPUI",1818.11,"Horizon League Championship","May 5, 2023",FALSE
+255,"Clark, Garrison",4,"Navy",1818.34,"Virginia Challenge","Apr 20, 2023",FALSE
+256,"Appenheimer, Tom",4,"Canisius",1818.42,"Penn Relays","Apr 27, 2023",FALSE
+257,"Solomon, Carter",2,"Notre Dame",1818.84,"ACC Outdoor Track & Field Championships","May 11, 2023",FALSE
+258,"Elwood, Tommy",3,"DePaul",1819.04,"BIG EAST Outdoor Track & Field Championships","May 10, 2023",FALSE
+259,"Flint, Johnathan",3,"Pepperdine",1819.5,"2023 Bryan Clay Invitational","Apr 13, 2023",FALSE
+260,"Staude , Griffin",2,"Eastern Kentucky",1819.57,"Flames Invitational","Apr 7, 2023",FALSE
+261,"Donlea, Leo",4,"Portland",1819.74,"Linfield Erik Anderson Memorial Icebreaker","Mar 3, 2023",FALSE
+262,"Polydoris, Jason",1,"Purdue",1820.48,"Drake Relays","Apr 26, 2023",FALSE
+263,"Knight, Taylor",2,"Weber State",1820.81,"2023 Bryan Clay Invitational","Apr 13, 2023",FALSE
+264,"Tyson, Teketel",1,"La Salle",1821.29,"Virginia Challenge","Apr 20, 2023",FALSE
+265,"Facioni, Zach",4,"Wake Forest",1821.66,"ACC Outdoor Track & Field Championships","May 11, 2023",FALSE
+265,"Miller, Ian",4,"High Point",1821.66,"Virginia Challenge","Apr 20, 2023",FALSE
+267,"Mendoza, Joshua",3,"UC Riverside",1821.73,"2023 Bryan Clay Invitational","Apr 13, 2023",FALSE
+268,"Fortuna, Dennis",1,"Penn",1821.8,"Raleigh Relays","Mar 23, 2023",FALSE
+269,"Bedics, Carson",3,"Auburn",1822.78,"Virginia Challenge","Apr 20, 2023",FALSE
+270,"Prenzler, Roland",3,"SIU Edwardsville",1822.82,"Wash U Distance Carnival Saturday 2023","Apr 1, 2023",FALSE
+271,"Morris, Isaac",2,"Army West Point",1822.85,"Bison Outdoor Classic","Apr 14, 2023",FALSE
+272,"Cox, Conner",4,"Weber State",1823.33,"2023 Bryan Clay Invitational","Apr 13, 2023",FALSE
+273,"Conrad, Lakelin",3,"Portland",1823.4,"Linfield Erik Anderson Memorial Icebreaker","Mar 3, 2023",FALSE
+274,"Chavan, Kabir",3,"Connecticut",1823.46,"Raleigh Relays","Mar 23, 2023",FALSE
+275,"Perkins, Nicholas",3,"IUPUI",1823.91,"Horizon League Championship","May 5, 2023",FALSE
+276,"Wetzel, Charlie",4,"Illinois State",1824.38,"Wash U Distance Carnival Saturday 2023","Apr 1, 2023",FALSE
+277,"Bourget, Jake",1,"Wisconsin",1824.64,"Big Ten Outdoor Championships","May 12, 2023",FALSE
+278,"Casarez, Eric",3,"Texas A&M",1824.77,"SEC Outdoor Track & Field Championships","May 11, 2023",FALSE
+279,"Butcher, Ben",2,"Lipscomb",1825.2,"Flames Invitational","Apr 7, 2023",FALSE
+280,"Mills, Nicholas",3,"Purdue Fort Wayne",1825.31,"Wash U Distance Carnival Saturday 2023","Apr 1, 2023",FALSE
+281,"Cronk, Coleman",1,"Florida State",1825.36,"Wake Forest Invitational","Apr 21, 2023",FALSE
+282,"Morris, Blake",3,"Missouri",1825.48,"Raleigh Relays","Mar 23, 2023",FALSE
+283,"Anderson, Emmet",1,"Minnesota",1825.54,"Big Ten Outdoor Championships","May 12, 2023",FALSE
+284,"Kingsley, Jaden",3,"Charleston Southern",1825.81,"2023 Big South Outdoor Track & Field Championship","May 10, 2023",FALSE
+285,"Rome, Mitchell",4,"Navy",1826.71,"2023 IC4A/ECAC Outdoor Track & Field Championships","May 12, 2023",FALSE
+286,"Harris, Jacob",3,"Alabama",1826.88,"SEC Outdoor Track & Field Championships","May 11, 2023",FALSE
+287,"Hosbein, Nolan",1,"Portland",1827.08,"Linfield Erik Anderson Memorial Icebreaker","Mar 3, 2023",FALSE
+288,"Johnson, Zach",3,"North Dakota State",1827.76,"Drake Relays","Apr 26, 2023",FALSE
+289,"Maddison, Aiden",2,"Sacramento St.",1827.8,"63rd Annual Mt. SAC Relays","Apr 12, 2023",FALSE
+290,"Fleischer, Ben",3,"Rhode Island",1828.5,"Raleigh Relays","Mar 23, 2023",FALSE
+291,"Smith, Murphy",2,"Navy",1828.59,"Patriot League Outdoor Track & Field Championships","May 5, 2023",FALSE
+292,"O'Kane, Teddy",2,"Cornell",1828.64,"Ivy League Outdoor Track & Field Championships","May 6, 2023",FALSE
+293,"Hall, Austin",1,"Purdue Fort Wayne",1828.67,"Horizon League Championship","May 5, 2023",FALSE
+294,"Moore, Riley",3,"Gonzaga",1830.32,"Stanford Invitational","Mar 31, 2023",FALSE
+295,"Malach, John",2,"NC State",1830.59,"ACC Outdoor Track & Field Championships","May 11, 2023",FALSE
+296,"Kolbus, Nathan",4,"Loyola (Ill.)",1831.38,"2023 Bryan Clay Invitational","Apr 13, 2023",FALSE
+297,"Hunter, Jacob",3,"Virginia",1831.77,"ACC Outdoor Track & Field Championships","May 11, 2023",FALSE
+298,"Swinth, Colton",3,"Cal Poly",1831.78,"Big West Track & Field Champio","May 12, 2023",FALSE
+299,"Olson, Ben",3,"South Dakota St.",1832.08,"2023 Bryan Clay Invitational","Apr 13, 2023",FALSE
+300,"Bennett, John",4,"Cal Poly",1832.49,"Big West Track & Field Champio","May 12, 2023",FALSE
+301,"Visse, Chantz",4,"Loyola (Ill.)",1832.71,"2023 Bryan Clay Invitational","Apr 13, 2023",FALSE
+302,"Schulz, Brian",4,"Utah Tech",1833.79,"Bob Larsen Distance Carnival","Mar 24, 2023",FALSE
+303,"Schroeder, Cooper",4,"Florida State",1833.84,"ACC Outdoor Track & Field Championships","May 11, 2023",FALSE
+304,"Sherry, Callum",1,"Stanford",1833.85,"Payton Jordan Invitational","Apr 21, 2023",FALSE
+305,"Hutchinson, Bryce",2,"Purdue",1833.96,"Drake Relays","Apr 26, 2023",FALSE
+306,"Healey, Andrew",2,"Boston College",1834.35,"Sean Collier Invitational Distance Night","Apr 21, 2023",FALSE
+307,"Garcia, Alexis",3,"Cal St. Fullerton",1834.82,"Big West Track & Field Champio","May 12, 2023",FALSE
+308,"Kipngeno, Dennis",3,"Texas A&M-CC",1835.4,"2023 Southland Conference Outdoor T&F Championship","May 4, 2023",FALSE
+309,"Sands, Colton",2,"North Carolina",1835.5,"ACC Outdoor Track & Field Championships","May 11, 2023",FALSE
+310,"Kane, Colin",4,"St. Joseph's (Pa.)",1835.59,"2023 Colonial Relays","Mar 30, 2023",FALSE
+311,"Kimutai, Enock",3,"Texas A&M-CC",1835.84,"2023 Southland Conference Outdoor T&F Championship","May 4, 2023",FALSE
+312,"Rovnak, Aaron",2,"Charlotte",1835.88,"2023 Conference USA Championships","May 11, 2023",FALSE
+313,"Pettit, Max",4,"Wright State",1836.26,"Horizon League Championship","May 5, 2023",FALSE
+314,"Prakash, Rishabh",4,"Cornell",1836.47,"Ivy League Outdoor Track & Field Championships","May 6, 2023",FALSE
+315,"McGoey, Daniel",2,"NC State",1836.61,"ACC Outdoor Track & Field Championships","May 11, 2023",FALSE
+316,"Elkins, Dereck",4,"Ole Miss",1837.31,"SEC Outdoor Track & Field Championships","May 11, 2023",FALSE
+317,"Seabase, Drew",1,"Michigan State",1837.4,"Big Ten Outdoor Championships","May 12, 2023",FALSE
+318,"Casey, Jack",1,"Columbia",1837.47,"2023 Colonial Relays","Mar 30, 2023",FALSE
+319,"Sullivan, Edward",1,"Boston College",1837.68,"Sean Collier Invitational Distance Night","Apr 21, 2023",FALSE
+320,"Fox, Peter",2,"Boston College",1837.82,"Penn Relays","Apr 27, 2023",FALSE
+321,"Carcas, Freddie",4,"Boise State",1838.06,"2023 Mountain West Outdoor Track & Field Championships","May 11, 2023",FALSE
+322,"Kimaiyo, Kelvin",2,"Texas A&M-CC",1838.07,"2023 Southland Conference Outdoor T&F Championship","May 4, 2023",FALSE
+323,"Horspool, Carson",3,"Weber State",1838.43,"2023 Big Sky Conference Outdoor Track Meeting","May 10, 2023",TRUE
+324,"Laverdiere, Luke",3,"Harvard",1838.66,"Raleigh Relays","Mar 23, 2023",FALSE
+325,"Kuhn, Hayden",1,"Iowa",1838.89,"63rd Annual Mt. SAC Relays","Apr 12, 2023",FALSE
+326,"Fitzpatrick, John",2,"Boston College",1839.34,"Sean Collier Invitational Distance Night","Apr 21, 2023",FALSE
+327,"Berhane, Nathanael",1,"Texas",1839.88,"Big 12 Outdoor Track & Field Championships","May 12, 2023",FALSE
+328,"Shaffer, Zac",3,"Belmont",1840.16,"Flames Invitational","Apr 7, 2023",FALSE
+329,"Schulten, Peter",3,"Iona",1840.75,"Penn Relays","Apr 27, 2023",FALSE
+330,"Nelson, Eric",2,"Utah State",1841.74,"2023 Bryan Clay Invitational","Apr 13, 2023",FALSE
+331,"Yegon, Vincent",2,"Mid. Tenn. State",1842.58,"2023 Conference USA Championships","May 11, 2023",FALSE
+332,"Martinez, Maximilliano",4,"Colorado St.",1842.82,"2023 Bryan Clay Invitational","Apr 13, 2023",FALSE
+333,"Bustamante, Jacob",2,"UC Irvine",1843.01,"Big West Track & Field Champio","May 12, 2023",FALSE
+334,"Hodges, JT",3,"Purdue Fort Wayne",1843.14,"Wash U Distance Carnival Saturday 2023","Apr 1, 2023",FALSE
+335,"Chudzik, Nick",4,"Loyola (Ill.)",1843.41,"2023 Bryan Clay Invitational","Apr 13, 2023",FALSE
+336,"Shively, Xian",3,"Cal Poly",1843.57,"Big West Track & Field Champio","May 12, 2023",FALSE
+337,"Hawes, Jack",3,"Alabama",1844.02,"SEC Outdoor Track & Field Championships","May 11, 2023",FALSE
+338,"Le Roux, Erik",1,"Northern Arizona",1844.11,"2023 Big Sky Conference Outdoor Track Meeting","May 10, 2023",TRUE
+339,"Kimutai, Gilbert",3,"McNeese State",1844.53,"2023 Southland Conference Outdoor T&F Championship","May 4, 2023",FALSE
+340,"Rans, Mitchell",3,"IUPUI",1844.68,"2023 Bryan Clay Invitational","Apr 13, 2023",FALSE
+341,"Kozuhar, Zlatko",3,"CBU",1844.83,"Ben Brown Invite/AstroAI Distance Classic","Mar 10, 2023",FALSE
+342,"Marie, Enzo",2,"Drake",1845.25,"2023 MVC Outdoor Track and Field Championship","May 12, 2023",FALSE
+343,"Brown, Cooper",3,"Wyoming",1845.53,"Beach Invitational 2023","Apr 14, 2023",FALSE
+344,"Senti, Ethan",3,"Southern Illinois",1845.78,"2023 MVC Outdoor Track and Field Championship","May 12, 2023",FALSE
+345,"Polak, Max",2,"Miami (OH)",1846.07,"Raleigh Relays","Mar 23, 2023",FALSE
+346,"Robertson, Sean",3,"Butler",1846.74,"Wash U Distance Carnival Saturday 2023","Apr 1, 2023",FALSE
+347,"Puffer, Aidan",1,"Northern Arizona",1846.76,"2023 Big Sky Conference Outdoor Track Meeting","May 10, 2023",TRUE
+348,"Sanchez, Gabriel",2,"Indiana",1847.09,"Big Ten Outdoor Championships","May 12, 2023",FALSE
+349,"Martinez, Seth",2,"North Florida",1847.47,"ASUN Outdoor Track and Field Championships","May 11, 2023",FALSE
+350,"Ruiz, Santiago",4,"Sacramento St.",1847.78,"63rd Annual Mt. SAC Relays","Apr 12, 2023",FALSE
+351,"Hennelly, Michael",4,"Manhattan",1847.89,"2023 Colonial Relays","Mar 30, 2023",FALSE
+352,"Walda, Evan",2,"Valparaiso",1848.08,"Raleigh Relays","Mar 23, 2023",FALSE
+353,"Fredian, Jack",4,"Villanova",1848.93,"BIG EAST Outdoor Track & Field Championships","May 10, 2023",FALSE
+354,"Webster, Kallen",3,"Utah Tech",1849.17,"Bob Larsen Distance Carnival","Mar 24, 2023",FALSE
+355,"Hussain, Zeid",2,"UC Irvine",1849.28,"Big West Track & Field Champio","May 12, 2023",FALSE
+356,"Litrenta, Anthony",3,"Duquesne",1850.24,"2023 Colonial Relays","Mar 30, 2023",FALSE
+357,"Babcock, Charlie",3,"South Dakota",1850.31,"Drake Relays","Apr 26, 2023",FALSE
+358,"Reyes, AJ",2,"Portland",1850.41,"2023 Bryan Clay Invitational","Apr 13, 2023",FALSE
+359,"Wallizada, Kameron",2,"North Florida",1850.51,"UNF - River City Spring Break Classic","Mar 16, 2023",FALSE
+360,"Brown, Alex",3,"Boston University",1851.2,"Sean Collier Invitational Distance Night","Apr 21, 2023",FALSE
+361,"Lespasio, Paul",1,"North Florida",1851.35,"UNF - River City Spring Break Classic","Mar 16, 2023",FALSE
+362,"Shanahan, Jay",2,"St. Joseph's (Pa.)",1851.51,"2023 Colonial Relays","Mar 30, 2023",FALSE
+363,"Caputo, Thomas",1,"Youngstown St.",1852.26,"Horizon League Championship","May 5, 2023",FALSE
+364,"Carbajal, Antonio",3,"Long Beach St.",1852.6,"Ben Brown Invite/AstroAI Distance Classic","Mar 10, 2023",FALSE
+365,"Stohr, Andy",2,"Lipscomb",1853.09,"Flames Invitational","Apr 7, 2023",FALSE
+366,"Sullivan, Russell",3,"American",1853.5,"Patriot League Outdoor Track & Field Championships","May 5, 2023",FALSE
+367,"Vats, Manan",3,"UC Santa Barbara",1853.79,"Mike Fanelli Track Classic","Mar 30, 2023",FALSE
+368,"Rotich, Brian",2,"Norfolk State",1853.88,"Raleigh Relays","Mar 23, 2023",FALSE
+369,"Black, Ben",3,"Tulsa",1854.75,"Wichita State KT Woodman Classic","Apr 7, 2023",FALSE
+370,"Sorensen, Peter",2,"Bucknell",1855.16,"2023 Colonial Relays","Mar 30, 2023",FALSE
+371,"Gedris, James",4,"Michigan",1856.3,"2023 Bryan Clay Invitational","Apr 13, 2023",FALSE
+372,"Hinds, Daren",2,"Winthrop",1856.32,"2023 Big South Outdoor Track & Field Championship","May 10, 2023",FALSE
+373,"Caso, Colin",2,"Oklahoma",1856.41,"2023 95th Clyde Littlefield Texas Relays","Mar 29, 2023",FALSE
+374,"Hodge, Ryan",3,"Baylor",1856.46,"2023 95th Clyde Littlefield Texas Relays","Mar 29, 2023",FALSE
+375,"Perry, Cole",1,"North Florida",1857.39,"UNF - River City Spring Break Classic","Mar 16, 2023",FALSE
+376,"King, Aidan",2,"Iowa",1857.68,"Drake Relays","Apr 26, 2023",FALSE
+377,"Lemke, Mark",3,"Illinois-Chicago",1858.53,"2023 MVC Outdoor Track and Field Championship","May 12, 2023",FALSE
+378,"Teuscher, Ryan",4,"Appalachian State",1858.62,"2023 Colonial Relays","Mar 30, 2023",FALSE
+379,"Donnelly, Kieran",1,"Marist",1858.89,"Bison Outdoor Classic","Apr 14, 2023",FALSE
+380,"Caster, Sean",3,"UC Riverside",1858.95,"Big West Track & Field Champio","May 12, 2023",FALSE
+381,"Enright, Natnael",1,"Arkansas State",1859.25,"Wash U Distance Carnival Saturday 2023","Apr 1, 2023",FALSE
+382,"Troxell, Alec",4,"Maine",1859.52,"2023 America East Outdoor Championships","May 6, 2023",FALSE
+383,"Brooks, Ethan",1,"UC Davis",1860.97,"Big West Track & Field Champio","May 12, 2023",FALSE
+384,"Hartig, William",2,"East Tenn. St.",1861.64,"Charlotte 49er Classic","Mar 16, 2023",FALSE
+385,"Hielkema, Spencer",3,"SIU Edwardsville",1862.17,"Wash U Distance Carnival Saturday 2023","Apr 1, 2023",FALSE
+386,"Enriquez, Erik",1,"Wichita State",1862.37,"Kansas Relays","Apr 13, 2023",FALSE
+387,"Burchett, Ryan",2,"Bellarmine",1862.91,"2023 Oliver Nikoloff","Mar 31, 2023",FALSE
+388,"Tilton, Liam",1,"Rutgers",1864.17,"Penn Relays","Apr 27, 2023",FALSE
+388,"Hill, Troy",2,"Penn",1864.17,"Raleigh Relays","Mar 23, 2023",FALSE
+390,"Allen, Jeffrey",1,"UMass Lowell",1864.5,"Raleigh Relays","Mar 23, 2023",FALSE
+391,"Brandt, Andrew",4,"Purdue",1864.55,"Big Ten Outdoor Championships","May 12, 2023",FALSE
+392,"Santos, Ben",2,"Bucknell",1864.89,"Patriot League Outdoor Track & Field Championships","May 5, 2023",FALSE
+393,"Marion, Hunter",3,"UMass Lowell",1865.12,"2023 America East Outdoor Championships","May 6, 2023",FALSE
+394,"Murphy, Kevin",4,"Boston University",1865.18,"Patriot League Outdoor Track & Field Championships","May 5, 2023",FALSE
+395,"Griffin, Hunter",2,"Bellarmine",1865.2,"2023 Oliver Nikoloff","Mar 31, 2023",FALSE
+396,"Campagna, Domenic",4,"Bucknell",1865.89,"Bison Outdoor Classic","Apr 14, 2023",FALSE
+397,"Wang, John",4,"Mount St. Mary's",1867.19,"Alan Connie Shamrock Invitational","Mar 16, 2023",FALSE
+398,"Kipkogei, Jacob",3,"McNeese State",1867.44,"2023 95th Clyde Littlefield Texas Relays","Mar 29, 2023",FALSE
+399,"McDonald, Mason",3,"South Dakota St.",1867.45,"Phil Esten Challenge","Apr 21, 2023",FALSE
+400,"Harman, Darren",4,"Utah State",1868.14,"2023 Mountain West Outdoor Track & Field Championships","May 11, 2023",FALSE
+401,"Ryan, Will",1,"Iowa",1868.43,"Big Ten Outdoor Championships","May 12, 2023",FALSE
+402,"Koepnick, Ryan",3,"UC Santa Barbara",1870.41,"Mike Fanelli Track Classic","Mar 30, 2023",FALSE
+403,"Sullivan, James",2,"Central Connecticut",1870.7,"NEC Championship","May 6, 2023",FALSE
+404,"Hubert, Sam",3,"Kansas",1871.2,"Mike Fanelli Track Classic","Mar 30, 2023",FALSE
+405,"Cimmarusti, Nick",2,"SE Missouri",1871.43,"OVC Championship","May 11, 2023",FALSE
+406,"Alvarez Gonzalez, Rodrigo",3,"Bradley",1872.51,"2023 MVC Outdoor Track and Field Championship","May 12, 2023",FALSE
+407,"Persin, Will",3,"Wyoming",1873.32,"Mines Mini Meet","Apr 21, 2023",TRUE
+408,"Groff, Aidan",2,"St. Joseph's (Pa.)",1874.83,"Atlantic 10 Outdoor Championships","May 6, 2023",FALSE
+409,"Smith, Aden",2,"Michigan State",1875.03,"Big Ten Outdoor Championships","May 12, 2023",FALSE
+410,"Buzby, Ryan",3,"Buffalo",1876.43,"Mid-American Outdoor Track & Field Championships","May 11, 2023",FALSE
+411,"Baun, Luke",4,"Youngstown St.",1876.63,"Bison Outdoor Classic","Apr 14, 2023",FALSE
+412,"Ayyoub, Elyas",2,"LIU",1877.72,"NEC Championship","May 6, 2023",FALSE
+413,"Light, Cael",2,"Indiana State",1878.36,"Drake Relays","Apr 26, 2023",FALSE
+414,"Bodewes, Noah",2,"Colorado St.",1878.52,"Mines Mini Meet","Apr 21, 2023",TRUE
+415,"Lusskin, Luke",3,"Army West Point",1878.99,"Bison Outdoor Classic","Apr 14, 2023",FALSE
+416,"Sommer, Konnor",4,"Iowa",1879.25,"Big Ten Outdoor Championships","May 12, 2023",FALSE
+417,"DiDonato, Robert",2,"Stanford",1879.92,"Pac-12 Track & Field Championships","May 12, 2023",FALSE
+417,"Burrell, Chase",2,"Appalachian State",1879.92,"Sun Belt Outdoor Track and Field Championships","May 11, 2023",FALSE
+419,"Anderson, Harris",2,"St. Thomas (Minn.)",1880.89,"Phil Esten Challenge","Apr 21, 2023",FALSE
+420,"Read, Quinton",3,"Utah Tech",1880.97,"2023 Bryan Clay Invitational","Apr 13, 2023",FALSE
+421,"Rogers, Tanner",1,"Weber State",1881.59,"Beach Invitational 2023","Apr 14, 2023",FALSE
+422,"Meyer, Ethan",3,"Louisville",1881.97,"ACC Outdoor Track & Field Championships","May 11, 2023",FALSE
+423,"McCollor, Adam",3,"St. Thomas (Minn.)",1882.19,"Phil Esten Challenge","Apr 21, 2023",FALSE
+424,"Reed, Sebastien",3,"Monmouth",1883.28,"CAA Outdoor Track and Field Championships","May 5, 2023",FALSE
+425,"Donnelly, Tadhg",1,"Iona",1884.18,"Metro Atlantic Conference Outdoor Track & Field Championship","May 6, 2023",FALSE
+426,"Nordling, Kyle",1,"South Dakota St.",1884.93,"Phil Esten Challenge","Apr 21, 2023",FALSE
+427,"Jones, Max",3,"Southern Utah",1885.67,"2023 WAC Outdoor Track & Field Championships","May 11, 2023",FALSE
+428,"Gensel, Matt",1,"Buffalo",1885.91,"Bison Outdoor Classic","Apr 14, 2023",FALSE
+429,"Boudreaux, Louden",2,"Louisiana",1886.02,"Sun Belt Outdoor Track and Field Championships","May 11, 2023",FALSE
+430,"Mengist, Surafel",3,"UMass Amherst",1886.29,"Atlantic 10 Outdoor Championships","May 6, 2023",FALSE
+431,"Prior, Gavin",4,"Charlotte",1887.16,"2023 Conference USA Championships","May 11, 2023",FALSE
+432,"Mehta, Malav",4,"Northeastern",1887.24,"CAA Outdoor Track and Field Championships","May 5, 2023",FALSE
+433,"Morris, Justin",2,"Wagner",1887.38,"NEC Championship","May 6, 2023",FALSE
+434,"Zydek, Connor",3,"Wyoming",1887.74,"Mines Mini Meet","Apr 21, 2023",TRUE
+435,"Martisus, Brady",1,"Portland",1888.65,"Linfield Erik Anderson Memorial Icebreaker","Mar 3, 2023",FALSE
+436,"Mooney, Noah",2,"Northeastern",1889.05,"CAA Outdoor Track and Field Championships","May 5, 2023",FALSE
+437,"Salinas, Juan",4,"Texas A&M-CC",1889.8,"2023 Bryan Clay Invitational","Apr 13, 2023",FALSE
+438,"Solberg, Alex",2,"Portland State",1889.85,"2023 Big Sky Conference Outdoor Track Meeting","May 10, 2023",TRUE
+439,"Filan, Jack",3,"Ole Miss",1890.45,"Virginia Challenge","Apr 20, 2023",FALSE
+440,"Tackling, Justin",2,"North Florida",1890.53,"UNF - River City Spring Break Classic","Mar 16, 2023",FALSE
+441,"Jacquez, Quinn",2,"UNC-Asheville",1891.15,"2023 Big South Outdoor Track & Field Championship","May 10, 2023",FALSE
+442,"Mountcastle, Tomas",2,"UC Santa Barbara",1891.53,"Mike Fanelli Track Classic","Mar 30, 2023",FALSE
+443,"Schnieders, DK",2,"Bellarmine",1892.22,"2023 Oliver Nikoloff","Mar 31, 2023",FALSE
+444,"Taylor, Jared",3,"Monmouth",1892.31,"CAA Outdoor Track and Field Championships","May 5, 2023",FALSE
+445,"Ferreras, Albert",1,"Merrimack",1892.67,"NEC Championship","May 6, 2023",FALSE
+446,"DeLaCruz, Evan",1,"Portland",1892.98,"Linfield Erik Anderson Memorial Icebreaker","Mar 3, 2023",FALSE
+447,"Diaz-Lopez, Adrian",2,"Wichita State",1893.24,"The American Outdoor Track & Field Championships","May 12, 2023",FALSE
+448,"Jesse, Adam",3,"Oakland",1894.52,"Horizon League Championship","May 5, 2023",FALSE
+449,"Bergeron, Lucas",3,"Maine",1895.74,"NEICAAA Outdoor Track & Field Championships","May 12, 2023",FALSE
+450,"Guzman, Evan",3,"East Tenn. St.",1896.3,"Southern Conference Outdoor Track and Field Championships","May 8, 2023",FALSE
+451,"Chung, Jonathan",2,"Texas A&M",1896.57,"SEC Outdoor Track & Field Championships","May 11, 2023",FALSE
+452,"Satterfield, Grady",1,"Providence",1896.72,"BIG EAST Outdoor Track & Field Championships","May 10, 2023",FALSE
+453,"Durant, Alex",1,"Boise State",1896.95,"2023 Mountain West Outdoor Track & Field Championships","May 11, 2023",FALSE
+454,"Russell, Ryan",2,"Albany",1897.54,"2023 America East Outdoor Championships","May 6, 2023",FALSE
+455,"Campbell, Xian",1,"East Tenn. St.",1897.71,"Charlotte 49er Classic","Mar 16, 2023",FALSE
+456,"Donovan, Patrick",3,"Saint Louis",1897.86,"Atlantic 10 Outdoor Championships","May 6, 2023",FALSE
+457,"Carder, John",4,"Arkansas State",1898.06,"Sun Belt Outdoor Track and Field Championships","May 11, 2023",FALSE
+458,"Nadolski, Ian",4,"Milwaukee",1898.31,"Horizon League Championship","May 5, 2023",FALSE
+459,"Garcia, Jeremie",3,"Rider",1898.46,"2023 Colonial Relays","Mar 30, 2023",FALSE
+460,"Winters, Noah",1,"TCU",1899.11,"2023 95th Clyde Littlefield Texas Relays","Mar 29, 2023",FALSE
+461,"Herbst, Nathan",4,"Arkansas State",1899.43,"2023 Bryan Clay Invitational","Apr 13, 2023",FALSE
+462,"Dos Santos, Nigel",4,"USC Upstate",1900.06,"2023 Big South Outdoor Track & Field Championship","May 10, 2023",FALSE
+463,"Shumaker , Caleb",2,"Northern Iowa",1900.2,"Wartburg Outdoor Select","Apr 1, 2023",FALSE
+464,"Benn, Joseph",2,"Texas A&M",1900.7,"The 40th Victor Lopez Classic (College)","Mar 23, 2023",FALSE
+465,"Jennings, Nate",2,"William & Mary",1900.76,"CAA Outdoor Track and Field Championships","May 5, 2023",FALSE
+466,"Cheboi, Mathias",4,"Grambling",1900.88,"2023 SWAC Outdoor T&F Championship","May 4, 2023",FALSE
+467,"Jackson, Parker",3,"Central Arkansas",1900.96,"Little Rock Invitational","Apr 6, 2023",FALSE
+468,"Marchant, William",3,"Buffalo",1901.6,"Bison Outdoor Classic","Apr 14, 2023",FALSE
+469,"Nores, Max",4,"Tulsa",1901.9,"The American Outdoor Track & Field Championships","May 12, 2023",FALSE
+470,"Field, Elias",4,"Central Connecticut",1902.08,"NEICAAA Outdoor Track & Field Championships","May 12, 2023",FALSE
+471,"Nelson, Owen",2,"Columbia",1902.11,"2023 Colonial Relays","Mar 30, 2023",FALSE
+472,"Marshall, Augustus",3,"UC Santa Barbara",1902.27,"Mike Fanelli Track Classic","Mar 30, 2023",FALSE
+473,"Alden, Peter",2,"Siena",1902.28,"Black & Gold Invitational","Mar 31, 2023",FALSE
+474,"Lee, Campbell",3,"Iona",1902.35,"Metro Atlantic Conference Outdoor Track & Field Championship","May 6, 2023",FALSE
+475,"Sullivan , Tyler",3,"UMass Lowell",1902.63,"2023 America East Outdoor Championships","May 6, 2023",FALSE
+476,"Flowers, Ben",4,"Wichita State",1902.81,"The American Outdoor Track & Field Championships","May 12, 2023",FALSE
+477,"Christman, Liam",4,"Holy Cross",1903.02,"Black & Gold Invitational","Mar 31, 2023",FALSE
+478,"McLeod, Chris",2,"Tulsa",1904.69,"The American Outdoor Track & Field Championships","May 12, 2023",FALSE
+479,"Bullock, Willard",4,"Pepperdine",1904.89,"2023 Bryan Clay Invitational","Apr 13, 2023",FALSE
+480,"Jacobo, Richie",3,"Eastern Illinois",1905.11,"OVC Championship","May 11, 2023",FALSE
+481,"Sandras, Alex",3,"La Salle",1905.2,"Atlantic 10 Outdoor Championships","May 6, 2023",FALSE
+482,"Brutvan, Riley",2,"Hartford",1905.83,"SILFEN INVITATIONAL 2023","Apr 14, 2023",FALSE
+483,"Cuestas, Jonah",2,"Kent State",1905.92,"Virginia Challenge","Apr 20, 2023",FALSE
+484,"Narbett, Eddie",4,"Bradley",1906.14,"2023 MVC Outdoor Track and Field Championship","May 12, 2023",FALSE
+485,"Schimitsch, William",2,"Holy Cross",1906.63,"Black & Gold Invitational","Mar 31, 2023",FALSE
+486,"Montera, Ryan",1,"Creighton",1906.7,"Kansas Relays","Apr 13, 2023",FALSE
+487,"Scott, Maxwell",3,"Montana",1906.9,"2023 Big Sky Conference Outdoor Track Meeting","May 10, 2023",TRUE
+488,"Vaillancourt, Landen",2,"UMass Lowell",1907.98,"2023 America East Outdoor Championships","May 6, 2023",FALSE
+489,"Ryan, Michael",2,"Wagner",1908.04,"Bison Outdoor Classic","Apr 14, 2023",FALSE
+490,"Speer, John",2,"TAMU-Commerce",1908.34,"2023 Southland Conference Outdoor T&F Championship","May 4, 2023",FALSE
+491,"Goldstein, Nicholas",2,"Furman",1908.74,"Southern Conference Outdoor Track and Field Championships","May 8, 2023",FALSE
+492,"Castruita, Kevin",2,"Abilene Christian",1908.79,"2023 WAC Outdoor Track & Field Championships","May 11, 2023",FALSE
+493,"Brown, Lucas",3,"George Washington",1909.01,"Atlantic 10 Outdoor Championships","May 6, 2023",FALSE
+494,"Pilat, Andrew",4,"Eastern Illinois",1909.26,"OVC Championship","May 11, 2023",FALSE
+495,"Rodriguez, Mark",2,"Central Connecticut",1910.99,"NEICAAA Outdoor Track & Field Championships","May 12, 2023",FALSE
+496,"Markovina, Paul",3,"Hofstra",1911.17,"CAA Outdoor Track and Field Championships","May 5, 2023",FALSE
+497,"Seagreaves, Brandon",3,"Houston",1911.4,"The American Outdoor Track & Field Championships","May 12, 2023",FALSE
+498,"Block, Alec",4,"Boston University",1911.85,"Patriot League Outdoor Track & Field Championships","May 5, 2023",FALSE
+499,"Anderson, Keaton",4,"Charlotte",1911.91,"2023 Conference USA Championships","May 11, 2023",FALSE
+500,"Pardo, Evan",1,"New Orleans",1912.02,"2023 95th Clyde Littlefield Texas Relays","Mar 29, 2023",FALSE
