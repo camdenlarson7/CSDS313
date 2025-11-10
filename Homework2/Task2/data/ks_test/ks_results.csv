@@ -1,0 +1,4 @@
+replicates,samples_per_replicate,n_uniform,n_power,ks_D,ks_pvalue,reject@alpha=0.05
+10,100,10,10,1.0,1.0825088224469026e-05,True
+100,100,100,100,1.0,2.2087606931995054e-59,True
+1000,100,1000,1000,1.0,0.0,True

@@ -1,0 +1,7 @@
+dir,file,replicates,samples_per_replicate,empirical_mu,empirical_sigma
+C:\Users\camde\OneDrive\Case_Western\CSDS 313\Homework2\Task2\data\uniform\mean_distribution,uniform_means_1000x100.csv,1000,100,0.7500093744694255,0.0015692016929484472
+C:\Users\camde\OneDrive\Case_Western\CSDS 313\Homework2\Task2\data\uniform\mean_distribution,uniform_means_100x100.csv,100,100,0.7502805310042574,0.001567226522506861
+C:\Users\camde\OneDrive\Case_Western\CSDS 313\Homework2\Task2\data\uniform\mean_distribution,uniform_means_10x100.csv,10,100,0.7502578218188136,0.001801788652212618
+C:\Users\camde\OneDrive\Case_Western\CSDS 313\Homework2\Task2\data\power_law\mean_distribution,power-law_means_1000x100.csv,1000,100,1.7672446706031275,0.18546505636132501
+C:\Users\camde\OneDrive\Case_Western\CSDS 313\Homework2\Task2\data\power_law\mean_distribution,power-law_means_100x100.csv,100,100,1.7777963130986452,0.25134370037476345
+C:\Users\camde\OneDrive\Case_Western\CSDS 313\Homework2\Task2\data\power_law\mean_distribution,power-law_means_10x100.csv,10,100,1.7154841285083307,0.12106638022515807
