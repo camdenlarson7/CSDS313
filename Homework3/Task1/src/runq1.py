@@ -1,4 +1,3 @@
-# Task1/src/run_p1a.py
 import argparse
 import os
 import pandas as pd
@@ -73,7 +72,7 @@ def main():
     counts = contingency_from_binary(x, y)
     N = counts.sum()
 
-    # --- Statistics ---
+    # Statistics
     # Mutual Information (bits)
     mi_obs, mi_p, mi_perm = permutation_test(
         stat_fn=mi_stat_from_vectors,
@@ -95,7 +94,7 @@ def main():
     # Pearson's chi-square (parametric)
     chi2_stat, chi2_p, expected = chi_square_from_counts(counts)
 
-    # --- Print a concise report ---
+    # report
     print("=" * 70)
     print("P1a: Association between two binary variables")
     print(f"File: {args.data}")
@@ -116,7 +115,7 @@ def main():
     print(f"  χ²:       {'REJECT H0' if chi2_p < args.alpha else 'fail to reject H0'}")
     print("=" * 70)
 
-    # Optional plots
+    # plots
     if args.plots:
         mi_sorted = np.sort(mi_perm)
         ji_sorted = np.sort(ji_perm)

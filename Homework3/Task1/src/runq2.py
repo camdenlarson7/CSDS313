@@ -1,4 +1,3 @@
-# Task1/src/run_p1b.py
 import argparse
 import os
 import itertools
@@ -15,30 +14,22 @@ from metrics import (
 
 # Benjamini–Hochberg (FDR)
 def benjamini_hochberg(pvals, alpha=0.05):
-    """
-    Return: reject_mask, adjusted_pvals
-    pvals: 1D array-like
-    """
     p = np.asarray(pvals, dtype=float)
     n = p.size
     order = np.argsort(p)
     ro = np.empty_like(order)
-    ro[order] = np.arange(n) + 1  # ranks (1..n)
+    ro[order] = np.arange(n) + 1
     # adjusted p-values
     adj = p * n / ro
-    # monotone non-decreasing when sorted by p:
     adj_sorted = adj[order]
     adj_sorted = np.minimum.accumulate(adj_sorted[::-1])[::-1]
     adj = np.empty_like(adj_sorted)
     adj[order] = adj_sorted
-    # BH reject rule: p_i <= (i/n)*alpha in sorted order
     thresh = (ro / n) * alpha
     reject = p <= thresh
     return reject, np.minimum(adj, 1.0)
 
-# ---------------------------
 # Permutation helpers
-# ---------------------------
 def mi_stat_from_vectors(x, y):
     counts = contingency_from_binary(x, y)
     return mi_from_counts(counts, base=2.0)
@@ -48,13 +39,6 @@ def jaccard_stat_from_vectors(x, y):
     return jaccard_index_from_counts(counts)
 
 def permutation_pvalue(stat_fn, x, y, perm_mat_y, alternative="greater"):
-    """
-    stat_fn: function(x, y) -> float
-    x, y: 1D arrays (binary)
-    perm_mat_y: ndarray shape (N_perms, n_samples). Each row is a permuted y.
-    alternative: 'greater' (used here)
-    Returns: obs, pval, perm_stats
-    """
     obs = stat_fn(x, y)
     perm_stats = np.array([stat_fn(x, y_perm) for y_perm in perm_mat_y])
     if alternative == "greater":
@@ -64,9 +48,7 @@ def permutation_pvalue(stat_fn, x, y, perm_mat_y, alternative="greater"):
     pval = (c + 1) / (perm_mat_y.shape[0] + 1)
     return float(obs), float(pval), perm_stats
 
-# ---------------------------
-# Plotting
-# ---------------------------
+# Plots
 def ensure_dir(path):
     if not os.path.exists(path):
         os.makedirs(path, exist_ok=True)
@@ -90,31 +72,27 @@ def main():
     ap.add_argument("--seed", type=int, default=42, help="Random seed.")
     ap.add_argument("--plots", action="store_true", help="Save comparison plots to ../results/")
     args = ap.parse_args()
-    print("Parsed args")
     results_dir = os.path.join("..", "results")
     if args.plots:
         ensure_dir(results_dir)
 
     # Load data
     df = pd.read_csv(args.data)
-    print("Read csv")
     cols = list(df.columns)
     ncols = len(cols)
     if ncols < 2:
         raise ValueError("p1b.csv must have >= 2 columns.")
     # Ensure binary
     for c in cols:
-        print("Working?")
         u = set(pd.unique(df[c]))
         if not u.issubset({0, 1}):
             raise ValueError(f"Column '{c}' must be binary 0/1. Found: {sorted(u)}")
 
-    X = df.to_numpy(dtype=int)  # shape (n_samples, n_vars)
+    X = df.to_numpy(dtype=int)
     n_samples, n_vars = X.shape
 
     # Precompute permutations for each column (permute column independently)
     rng = np.random.default_rng(args.seed)
-    # For memory balance, store indices then materialize on the fly per column
     perm_indices_by_col = [
         np.vstack([rng.permutation(n_samples) for _ in range(args.perms)])
         for _ in range(n_vars)
@@ -123,7 +101,6 @@ def main():
     # Iterate over all pairs
     records = []
     for i, j in itertools.combinations(range(n_vars), 2):
-        print(i + j)
         xi = X[:, i]
         yj = X[:, j]
         # Observed counts and stats
@@ -133,7 +110,7 @@ def main():
         chi2_stat, chi2_p, _ = chi_square_from_counts(counts)
 
         # Permutations for MI & JI: permute Y only (pairwise, reuse precomputed column-j perms)
-        perm_mat_y = yj[perm_indices_by_col[j]]  # (N_perms, n_samples)
+        perm_mat_y = yj[perm_indices_by_col[j]]
         mi_obs2, mi_p, _ = permutation_pvalue(mi_stat_from_vectors, xi, yj, perm_mat_y, "greater")
         ji_obs2, ji_p, _ = permutation_pvalue(jaccard_stat_from_vectors, xi, yj, perm_mat_y, "greater")
         assert abs(mi_obs - mi_obs2) < 1e-12 and abs(ji_obs - ji_obs2) < 1e-12
@@ -181,7 +158,7 @@ def main():
     ensure_dir(os.path.dirname(out_csv))
     res.to_csv(out_csv, index=False)
 
-    # Print concise report
+    # Report
     print("=" * 80)
     print(f"P1b results for {args.data}  |  pairs = {len(res)}  |  N_samples = {n_samples}")
     print(f"Alpha (FDR): {args.alpha}  |  Permutations: {args.perms}")
@@ -201,7 +178,7 @@ def main():
     print("=" * 80)
 
     if args.plots:
-        # Scatter plots comparing STATISTICS
+        # Scatter plots comparing statistics
         scatter_xy(res["mi"], res["ji"],
                    "MI (bits)", "JI",
                    "MI vs JI (statistics)",
@@ -216,7 +193,7 @@ def main():
                    os.path.join(results_dir, "p1b_scatter_ji_vs_chi2_stats.png"))
 
         # Scatter plots comparing -log10 p-values
-        eps = 1e-300  # avoid log(0)
+        eps = 1e-300 
         scatter_xy(-np.log10(res["mi_p"] + eps), -np.log10(res["ji_p"] + eps),
                    r"$-\,\log_{10} p_{\mathrm{MI}}$", r"$-\,\log_{10} p_{\mathrm{JI}}$",
                    "MI vs JI (-log10 p-values)",
