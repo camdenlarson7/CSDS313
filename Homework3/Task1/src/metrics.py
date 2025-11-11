@@ -3,9 +3,7 @@ import numpy as np
 from typing import Tuple, Optional, Callable
 from scipy.stats import chi2_contingency
 
-# -------------------------------
-# Contingency table + sanity checks
-# -------------------------------
+# Contingency table
 def contingency_from_binary(x: np.ndarray, y: np.ndarray) -> np.ndarray:
     """
     Build 2x2 contingency table for two binary vectors x, y (values must be 0 or 1).
@@ -28,9 +26,8 @@ def contingency_from_binary(x: np.ndarray, y: np.ndarray) -> np.ndarray:
     return np.array([[n00, n01],
                      [n10, n11]], dtype=float)
 
-# -------------------------------
-# Mutual Information (bits)
-# -------------------------------
+
+# Mutual Information
 def mi_from_counts(counts: np.ndarray, base: float = 2.0) -> float:
     """
     Mutual Information from a contingency table (2x2 or larger).
@@ -52,9 +49,7 @@ def mi_from_counts(counts: np.ndarray, base: float = 2.0) -> float:
         mi = np.nansum(p * log_ratio)
     return float(mi)
 
-# -------------------------------
-# Jaccard Index (for binary)
-# -------------------------------
+# Jaccard Index
 def jaccard_index_from_counts(counts: np.ndarray) -> float:
     """
     Jaccard for two binary variables: intersection/union where '1' is the 'presence'.
@@ -69,9 +64,7 @@ def jaccard_index_from_counts(counts: np.ndarray) -> float:
     union = n01 + n10 + n11
     return 0.0 if union == 0 else float(inter / union)
 
-# -------------------------------
 # Pearson's Chi-square (parametric p-value)
-# -------------------------------
 def chi_square_from_counts(counts: np.ndarray) -> Tuple[float, float, np.ndarray]:
     """
     Wrap scipy.stats.chi2_contingency (no Yates correction).
@@ -80,9 +73,7 @@ def chi_square_from_counts(counts: np.ndarray) -> Tuple[float, float, np.ndarray
     chi2, p, dof, expected = chi2_contingency(counts, correction=False)
     return float(chi2), float(p), expected
 
-# -------------------------------
 # Generic permutation test
-# -------------------------------
 def permutation_test(
     stat_fn: Callable[[np.ndarray, np.ndarray], float],
     x: np.ndarray,
