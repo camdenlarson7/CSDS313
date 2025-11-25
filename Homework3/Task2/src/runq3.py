@@ -1,4 +1,3 @@
-# Task2/src/run_p2c.py
 import argparse, os, numpy as np, pandas as pd, matplotlib.pyplot as plt
 from scipy.stats import pearsonr, norm
 

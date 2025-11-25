@@ -1,4 +1,3 @@
-# Task2/src/run_p2a.py
 import argparse
 import os
 import numpy as np
@@ -25,7 +24,6 @@ def load_two_columns(csv_path: str, col_names=None):
 def scatter_with_fit(x, y, cols, outpath):
     plt.figure(figsize=(6.6, 4.4))
     plt.scatter(x, y, s=12, alpha=0.85)
-    # least-squares line
     m, b = np.polyfit(x, y, 1)
     xs = np.linspace(np.min(x), np.max(x), 200)
     plt.plot(xs, m * xs + b, linewidth=2)
@@ -37,10 +35,6 @@ def scatter_with_fit(x, y, cols, outpath):
     plt.close()
 
 def fisher_ci(r, n, alpha=0.05):
-    """
-    Fisher z-transformation CI for correlation (optional, printed for context).
-    Returns (lo, hi). If r is exactly +/-1, returns (r, r).
-    """
     if n <= 3 or abs(r) >= 1:
         return (r, r)
     z = 0.5 * np.log((1 + r) / (1 - r))
@@ -49,7 +43,6 @@ def fisher_ci(r, n, alpha=0.05):
     zcrit = norm.ppf(1 - alpha / 2)
     lo = z - zcrit * se
     hi = z + zcrit * se
-    # invert transform
     lo_r = (np.exp(2 * lo) - 1) / (np.exp(2 * lo) + 1)
     hi_r = (np.exp(2 * hi) - 1) / (np.exp(2 * hi) + 1)
     return (float(lo_r), float(hi_r))
@@ -73,7 +66,7 @@ def main():
     # Pearson correlation (two-sided p-value)
     r, p = pearsonr(x, y)
 
-    # Optional CI for effect-size context
+    # CI for effect-size context
     lo, hi = fisher_ci(r, n, alpha=args.alpha)
 
     # Print report
@@ -102,7 +95,7 @@ def main():
     print(f"Interpretation: {direction} association, {magnitude} magnitude.")
     print("=" * 70)
 
-    # Optional plot
+    # Plot
     if args.plot:
         results_dir = os.path.join("..", "results")
         os.makedirs(results_dir, exist_ok=True)
